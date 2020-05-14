@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/mk1120/monsters.git",
+  "homepage": "https://mk1120.github.io/monsters",
   "name": "my-react",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
